@@ -76,6 +76,7 @@ body {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  text-align: center;
 }
 .paragraf-guality {
   font-size: 16px;
@@ -86,7 +87,7 @@ body {
 .background-section-3 {
   background-color: #f4f4fd;
 }
-.third-heading {
+.second-heading {
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
