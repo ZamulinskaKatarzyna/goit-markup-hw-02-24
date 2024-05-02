@@ -53,6 +53,7 @@ body {
   font-weight: bold;
   letter-spacing: 0.02em;
   color: #ffffff;
+  text-align: center;
 }
 .button-guality {
   background-color: #4d5ae5;
@@ -62,4 +63,34 @@ body {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #ffffff;
+  cursor: pointer;
+}
+.button-guality:hover,
+.button-guality:focus {
+  background-color: #404bbf;
+}
+
+.heading {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.paragraf-guality {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+.background-section-3 {
+  background-color: #f4f4fd;
+}
+.second-heading {
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+  text-align: center;
 }
