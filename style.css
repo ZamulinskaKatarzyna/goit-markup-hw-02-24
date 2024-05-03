@@ -83,6 +83,13 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
+.third-heading {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
 
 .background-section-3 {
   background-color: #f4f4fd;
@@ -94,4 +101,8 @@ body {
   text-transform: capitalize;
   color: #2e2f42;
   text-align: center;
+}
+
+.background-footer {
+  background-color: #2e2f42;
 }
