@@ -70,7 +70,7 @@ body {
   background-color: #404bbf;
 }
 
-.heading {
+.first-heading {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -82,6 +82,9 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+}
+.second-list-quality {
+  background-color: #ffffff;
 }
 .third-heading {
   font-weight: 500;
