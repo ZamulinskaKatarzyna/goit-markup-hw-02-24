@@ -46,7 +46,7 @@ body {
 .background-section-1 {
   background-color: #2e2f42;
 }
-.text-section-1 {
+.text-head {
   font-size: 56px;
   line-height: 1.07;
   text-align: center;
@@ -82,7 +82,7 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.second-list {
+.text-list {
   background-color: #ffffff;
 }
 .third-heading {
