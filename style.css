@@ -15,6 +15,7 @@ body {
 }
 .logo-text {
   color: #2e2f42;
+  color: #f4f4fd;
 }
 .main-menu-list {
   font-weight: 500;
@@ -105,10 +106,10 @@ body {
   text-align: center;
 }
 
-.foot.background {
+.foot-background {
   background-color: #2e2f42;
 }
-.foot.text {
+.foot-text {
   line-height: 1.5;
   color: #f4f4fd;
   letter-spacing: 0.02em;
