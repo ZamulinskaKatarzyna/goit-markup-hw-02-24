@@ -108,10 +108,11 @@ body {
 .background-section-footer {
   background-color: #2e2f42;
 }
+.logo-text-foot {
+  color: #f4f4fd;
+}
 .paragraf-text {
-  font-size: 18px;
   font-style: normal;
-  font-weight: 700;
   line-height: 1.5;
   color: #f4f4fd;
   letter-spacing: 0.02em;
