@@ -15,7 +15,6 @@ body {
 }
 .logo-text {
   color: #2e2f42;
-  color: #f4f4fd;
 }
 .main-menu-list {
   font-weight: 500;
@@ -106,10 +105,13 @@ body {
   text-align: center;
 }
 
-.foot-background {
+.background-section-footer {
   background-color: #2e2f42;
 }
-.foot-text {
+.paragraf-text {
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
   line-height: 1.5;
   color: #f4f4fd;
   letter-spacing: 0.02em;
